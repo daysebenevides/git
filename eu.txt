@@ -2,3 +2,5 @@ testando sozinha o comando
 la la la la 
 
 entendendo o head
+
+removendo um commit
