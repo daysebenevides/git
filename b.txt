@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mesmo código
 BBBB
+=======
+mesmo código
+>>>>>>> teste
